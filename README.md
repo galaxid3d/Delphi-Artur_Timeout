@@ -1,5 +1,5 @@
 # Delphi-Artur_Timeout
-Program "Artur_Timeout" start create by 06.2020
+Program "Artur_Timeout" start create by 02.2020
 
 The meaning of the program: after time has elapsed, it displays a lock screen that cannot be closed without entering the password and secret combination.
 > [!NOTE]\
